@@ -12,4 +12,6 @@
  - Getting list of transactions of a wallet : 'node app transactions <walletName>'
  - Getting an unused Bitcoin address of a wallet : 'node app generate-address <walletName>'
 
+ Feel free to fork and update the repository as required.
+
  Created by Me <a href="https://www.github.com/vaibhav0806">Github</a> | <a href="https://www.linkedin.com/in/vaibhav0806">LinkedIn</a>
