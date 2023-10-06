@@ -1,8 +1,8 @@
-# Cypherock Assignment
+# BitWallet CLI
 
 ## Before using :
  - use 'npm i' command before using the commands
- - Blockcypher API Key is included in the .env file
+ - Blockcypher API Key has to be included in the .env file. Go to <a href="https://www.blockcypher.com/">Blockcypher</a> and create a new API Key if you don't already have one.
 
 ## Operations :
  - Creating a wallet : 'node app create <walletName>'
@@ -12,6 +12,4 @@
  - Getting list of transactions of a wallet : 'node app transactions <walletName>'
  - Getting an unused Bitcoin address of a wallet : 'node app generate-address <walletName>'
 
-## Info : 
- - Wallet 'darshan' and 'vaibhav2' already have some Balance and some Transaction history, done using Testnet
- - wallet 'vaibhav' does not have any Balance or Transaction history
+ Created by Me <a href="https://www.github.com/vaibhav0806">Github</a> | <a href="https://www.linkedin.com/in/vaibhav0806">LinkedIn</a>
