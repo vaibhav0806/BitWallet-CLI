@@ -9,7 +9,7 @@
  - Import a wallet : `node app import <walletName> <mnemonic>`
  - Listing all wallets : `node app list`
  - Getting Bitcoin balance of wallet : `node app balance <walletName>`
- - Getting list of transactions of a wallet : `node app transactions` <walletName>`
+ - Getting list of transactions of a wallet : `node app transactions <walletName>`
  - Getting an unused Bitcoin address of a wallet : `node app generate-address <walletName>`
 
  Feel free to fork and update the repository as required.
